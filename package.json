@@ -1,6 +1,6 @@
 {
   "name": "@gfdigital/tsconfig",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A collection of TS configs that can be used and extended in any project",
   "type": "module",
   "repository": {
