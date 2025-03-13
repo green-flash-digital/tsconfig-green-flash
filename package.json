@@ -2,10 +2,17 @@
   "name": "@gfdigital/tsconfig",
   "version": "0.1.0",
   "description": "A collection of TS configs that can be used and extended in any project",
-  "main": "index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/drewdecarme/green-flash-tsconfig.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    ".": "./lib/tsconfig.json",
+    "./library": "./lib/tsconfig.library.json"
   },
   "author": "Drew DeCarme (drew@greenflash.digital)",
   "license": "MIT",
