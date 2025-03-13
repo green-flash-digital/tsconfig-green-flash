@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/green-flash-digital/green-flash-tsconfig.git"
+    "url": "git+ssh://git@github.com:green-flash-digital/tsconfigs.git"
   },
   "publishConfig": {
     "access": "public"
