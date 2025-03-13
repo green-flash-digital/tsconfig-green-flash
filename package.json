@@ -8,7 +8,8 @@
     "url": "git+ssh://git@github.com:green-flash-digital/tsconfigs.git"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "release": "yarn changeset publish"
   },
   "exports": {
     ".": "./lib/tsconfig.json",
