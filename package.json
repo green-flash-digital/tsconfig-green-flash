@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/drewdecarme/green-flash-tsconfig.git"
+    "url": "git+ssh://git@github.com/green-flash-digital/green-flash-tsconfig.git"
   },
   "publishConfig": {
     "access": "public"
@@ -17,9 +17,9 @@
   "author": "Drew DeCarme (drew@greenflash.digital)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drewdecarme/green-flash-tsconfig/issues"
+    "url": "https://github.com/green-flash-digital/green-flash-tsconfig/issues"
   },
-  "homepage": "https://github.com/drewdecarme/green-flash-tsconfig#readme",
+  "homepage": "https://github.com/green-flash-digital/green-flash-tsconfig#readme",
   "keywords": [
     "typescript",
     "tsconfig",
