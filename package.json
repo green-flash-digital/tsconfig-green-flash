@@ -1,11 +1,11 @@
 {
   "name": "@gfdigital/tsconfig",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A collection of TS configs that can be used and extended in any project",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:green-flash-digital/tsconfigs.git"
+    "url": "git+ssh://git@github.com:green-flash-digital/tsconfig-green-flash.git"
   },
   "scripts": {
     "release": "yarn changeset publish"
